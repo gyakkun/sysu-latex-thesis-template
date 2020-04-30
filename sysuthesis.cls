@@ -567,7 +567,7 @@
         }\\
         % 第一次检查
         \multicolumn{2}{|p{\textwidth}|} {
-            \textbf{第一次检查（First Check-up）:}  \newline
+            \textbf{第\ 1\ 次检查（First Check-up）:}  \newline
             \begin{adjustwidth}{2em}{2em}
             学生总结 \newline
             Student Self-Summary:
@@ -582,7 +582,7 @@
         }\\
         % 第二次检查
         \multicolumn{2}{|p{\textwidth}|} {
-            \textbf{第二次检查（Second Check-up）:}  \newline
+            \textbf{第\ 2\ 次检查（Second Check-up）:}  \newline
             \begin{adjustwidth}{2em}{2em}
             学生总结 \newline
             Student Self-Summary:
@@ -598,7 +598,7 @@
 
         % 第三次检查
         \multicolumn{2}{|p{\textwidth}|} {
-            \textbf{第三次检查（Third Check-up）:}  \newline
+            \textbf{第\ 3\ 次检查（Third Check-up）:}  \newline
             \begin{adjustwidth}{2em}{2em}
             学生总结 \newline
             Student Self-Summary:
@@ -614,7 +614,7 @@
 
         % 第四次检查
         \multicolumn{2}{|p{\textwidth}|} {
-            \textbf{第四次检查（Fourth Check-up）:}  \newline
+            \textbf{第\ 4\ 次检查（Fourth Check-up）:}  \newline
             \begin{adjustwidth}{2em}{2em}
             学生总结 \newline
             Student Self-Summary:
