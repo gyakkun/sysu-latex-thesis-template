@@ -309,9 +309,9 @@
     \begin{titlepage}
         \begin{center}
             \includegraphics[width=3.5cm]{image/SYSULogo2} \\
-            \songti
+            \hzs
             \vspace{-1em}
-            \zihao{-0}\textcolor[rgb]{0,0.337,0.153}{本科生毕业论文（设计）} \\
+            \zihao{-0}\textcolor[rgb]{0,0.337,0.153}{\bfseries 本科生毕业论文（设计）} \\
             \fontsize{20}{24}\selectfont \textcolor[rgb]{0.427,0.42,0.4}{\textbf{\textrm{\hspace{-5pt}Undergraduate Graduation Thesis }}\hspace{-10pt}（\hspace{2pt}\textbf{\textrm{Design}}）} \\
             \noindent\makebox[\linewidth]{\color[rgb]{0,0.337,0.153}\rule{\paperwidth}{4pt}}\\
             \vspace{-1.35em}
